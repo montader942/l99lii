@@ -1,1 +1,1 @@
-worker: python3 Jamal.py
+worker: python3 Sedthon.py
