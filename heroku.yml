@@ -4,4 +4,4 @@ build:
 run:
   worker:
     command:
-      - python3 Sedthon.py
+      - python3 sedthon.py
